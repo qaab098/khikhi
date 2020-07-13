@@ -24,8 +24,8 @@ body{
 #nav-list{
 	margin-top: 0;
 }
-#nav-list a:hover{
-	background: #E7E7E7;
+#nav-list a:hover, #num:hover{
+	background: #B9B9B9;
 }
 .title{
 	text-align: center;
@@ -51,10 +51,11 @@ body{
 	margin: 0 auto;
 	margin-bottom: 15px;
 	text-align: center;
-	background-color: #61122f;
+	background-color: #f8f8f8 ;
 	width: 150px;
 	border-radius: 9px;
 }
 #num a{
-	color: #f8f8f8;
+	color: #61122f;
+	text-decoration:none;
 }
